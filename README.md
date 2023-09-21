@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ehabmah6969@gmail.com**
 
-<h3 align="left">Connect with me:<a href="www.linkedin.com/in/ehab-mahmoud-761341292">Linkedin</a></h3>
+<h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/ehab-mahmoud-761341292">Linkedin</a></h3>
 <p align="left">
 </p>
 
