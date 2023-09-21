@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Male Fashion**
 
-- 👨‍💻 All of my projects are available at [this github](this github)
+- 👨‍💻 All of my projects are available here
 
 - 📫 How to reach me **ehabmah6969@gmail.com**
 
