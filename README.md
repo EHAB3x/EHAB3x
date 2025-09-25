@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ihab Mahmoud and I'm a frontend developer from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Ihab Mahmoud and I'm a frontend developer</h2>
 
 ## 📈My Stats.
 <p align="center">
