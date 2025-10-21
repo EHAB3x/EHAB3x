@@ -7,8 +7,6 @@
   <img src="https://raw.githubusercontent.com/EHAB3x/EHAB3x/output/snake.svg" alt="Snake animation" />
 </p>
 
----
-
 ## About Me
 
 - I’m currently working on web projects using **React, Angular, .NET, and more**
@@ -16,8 +14,6 @@
 - I’m looking to collaborate on **ambitious full-stack applications**
 - Ask me about **frontend and backend**
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/ihabmahmoud1) | [Twitter](https://x.com/Ihab__mahmoud)
-
----
 
 ## Tech Stack
 
@@ -98,7 +94,7 @@
   </a>
 </div>
 
----
+<br />
 
 <details>
   <summary><b>Projects Spotlight</b></summary>
